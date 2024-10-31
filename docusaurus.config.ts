@@ -17,6 +17,8 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'globalcents-csrepo', // Usually your GitHub org/user name.
   projectName: 'uipainterdocs', // Usually your repo name.
+  deploymentBranch: 'deploy',
+
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -38,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-             'https://github.com/globalcents-csrepo/documentfactorydocs/tree/main/',
+             'https://github.com/globalcents-csrepo/uipainterdocs/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -49,7 +51,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-              'https://github.com/globalcents-csrepo/documentfactorydocs/tree/main/',
+              'https://github.com/globalcents-csrepo/uipainterdocs/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
