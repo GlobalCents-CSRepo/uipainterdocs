@@ -19,7 +19,6 @@ const config: Config = {
   projectName: 'uipainterdocs', // Usually your repo name.
   deploymentBranch: 'deploy',
 
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
